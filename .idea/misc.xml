@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/testpincode/app/src/main/res/drawable/backgroundgray.xml" value="0.1" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/bgn_bluebutton.xml" value="0.189" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/bgn_pinkbutton.xml" value="0.1" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/circle2.xml" value="0.1" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/circlelayout.xml" value="0.1765" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.1765" />
+        <entry key="..\:/testpincode/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1765" />
+        <entry key="..\:/testpincode/app/src/main/res/layout/activity_dashboarding.xml" value="0.20416666666666666" />
+        <entry key="..\:/testpincode/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/testpincode/app/src/main/res/layout/fragment_pin_code.xml" value="0.18568840579710144" />
+        <entry key="..\:/testpincode/app/src/main/res/layout/layout_pin_code_circles.xml" value="0.16510416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

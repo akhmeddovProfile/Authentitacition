@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="RGB_blue">#274E96</color>
+    <color name="RGB_pink">#BD0094</color>
+    <color name="RGB_lowgreen">#00B8A8</color>
+    <color name="RGB_red">#ED1A4F</color>
+    <color name="RGB_yellow">#FC8217</color>
+    <color name="RGB_black">#3D3D3D</color>
+    <color name="RGB_white">#FFFFFF</color>
+    <color name="RGB_Gray1">#F2F2F2</color>
+    <color name="RGB_Gray2"> #929292</color>
+</resources>
